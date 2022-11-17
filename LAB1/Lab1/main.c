@@ -3,6 +3,10 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+    Add(3);
+    Add(5);
+    Add(7);
+    Add(9);
+    Display();
+
 }
