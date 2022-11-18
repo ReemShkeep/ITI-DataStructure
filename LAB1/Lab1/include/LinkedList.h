@@ -103,7 +103,6 @@ void Remove(int data)
                         head->prev = Null; // bt3ml deallocated
                 };
         }
-                }
                 
         else if (node == tail ){
                 // 2 senerio    3aiz tshelha w mfesh 8erha fl ll y3ni l ola wl a5era
@@ -124,6 +123,7 @@ void Remove(int data)
         else {
         }
                 };
+                }
 
 /*
 
